@@ -1,0 +1,38 @@
+{
+  "name": "src",
+  "type": "folder",
+  "folderData": [
+    {
+      "name": "App.css",
+      "type": "file"
+    },
+    {
+      "name": "index.scss",
+      "type": "file"
+    },
+    {
+      "name": "a",
+      "type": "folder",
+      "folderData": [
+        {
+          "name": "pretyui.css",
+          "type": "file"
+        },
+        {
+            "name": "are",
+            "type": "folder",
+            "folderData": [
+              {
+                "name": "pretyui.css",
+                "type": "file"
+              },
+              {
+                "name": "vbnm.scss",
+                "type": "file"
+              }
+            ]
+          }
+      ]
+    }
+  ]
+}
